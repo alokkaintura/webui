@@ -3,7 +3,7 @@
 <pre>
  
 <html>
-<center> <img src="https://raw.githubusercontent.com/Himjo/bonzovi/master/vimal-sir.jpg"  width="300" height="400">  </center>
+
 
 </html>
 
