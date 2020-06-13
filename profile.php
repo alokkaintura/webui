@@ -1,11 +1,8 @@
-  <center> WECOME TO MY CLOUD WORLD </center> 
+  <center> Task 1 - Hybrid Multi Cloud Computing </center> 
 <br />
 <pre>
- 
-<html>
-<center> <img src="https://github.com/alokkaintura/redhat.git"  width="300" height="400">  </center>
-</html>
-
-<center> <h2> Great initiative by LinuxWorld Informatics Pvt. Ltd. Making India Future Ready </h2> </center>
+ <?php
+echo '<center> <h2> Terraform is an open-source infrastructure as code software tool created by HashiCorp. It enables users to define and provision a datacenter infrastructure using a high-level configuration language known as Hashicorp Configuration Language, or optionally JSON.  Ready </h2> </center>';
+?>
 </pre>
 
