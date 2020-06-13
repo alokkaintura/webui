@@ -1,4 +1,4 @@
-echo ' <marquee>Multi Hybrid Cloud Computing </marquee> ';
+<marquee>Multi Hybrid Cloud Computing </marquee>
 <br />
 <pre>
 <?php
